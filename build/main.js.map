@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/main.ts"],"sourcesContent":["import {helper} from \"utils/helper.js\"\n\nconsole.log('Call helper')\nhelper();\n"],"names":["helper","console","log"],"mappings":"AAAA,SAAQA,MAAM,QAAO,oBAAiB;AAEtCC,QAAQC,GAAG,CAAC;AACZF"}
